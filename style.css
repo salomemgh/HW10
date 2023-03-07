@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+    background-color: #fafafa;
+    border: #dcdcdc;
+    border-radius: 20px;
+    width: 380px;
+    height: 590px;
+    margin: 0% auto;
+    margin-top: 40px;
+    
+}
+.image{
+    width: 237.95px;
+    height: 184.57px;
+}
+.header{
+    font-weight: 300px;
+    margin-right: 140px;
+}
+.hrr{
+    width: 300px;
+    top: 460px;
+}
+.link{
+    text-decoration: none;
+    margin-left: 230px;
+    color: #5076ff;
+}
