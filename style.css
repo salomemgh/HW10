@@ -7,7 +7,7 @@
     border: #dcdcdc;
     border-radius: 20px;
     width: 380px;
-    height: 590px;
+    height: 600px;
     margin: 0% auto;
     margin-top: 40px;
     
@@ -15,6 +15,7 @@
 .image{
     width: 237.95px;
     height: 184.57px;
+    margin-top: 20px;
 }
 .header{
     font-weight: 300px;
